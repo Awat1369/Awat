@@ -1,4 +1,4 @@
-# Musicbot
+# Musybot
 
 Test hosted version on [telegram](https://t.me/musy_bot).
 
